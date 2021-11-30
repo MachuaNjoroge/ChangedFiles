@@ -1,0 +1,6 @@
+include/
+bin/
+lib/
+share/
+pyvenv
+*.db
